@@ -45719,5 +45719,44 @@
     "start_date_local": "2026-03-17T07:25:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 12009.4,
+    "elevation_gain": 140.0,
+    "id": "17769306737",
+    "moving_time": 3930.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-18T16:18:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 11003.1,
+    "elevation_gain": 143.0,
+    "id": "17778745980",
+    "moving_time": 3740.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T11:57:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17779405018",
+    "moving_time": 3600.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-19T07:26:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

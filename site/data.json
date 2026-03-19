@@ -31652,6 +31652,33 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17754527894",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17769306737",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17778745980",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 7,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17779405018",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -61220,6 +61247,24 @@
           "distance": 12037.7,
           "elevation_gain": 150.0,
           "moving_time": 4000.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17769306737"
+          ],
+          "count": 1,
+          "distance": 12009.4,
+          "elevation_gain": 140.0,
+          "moving_time": 3930.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17778745980"
+          ],
+          "count": 1,
+          "distance": 11003.1,
+          "elevation_gain": 143.0,
+          "moving_time": 3740.0
         }
       },
       "Workout": {
@@ -61375,11 +61420,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17779405018"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       }
     }
   },
-  "generated_at": "2026-03-18T15:34:04.799522+00:00",
+  "generated_at": "2026-03-19T15:22:35.673887+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
