@@ -45771,5 +45771,31 @@
     "start_date_local": "2026-03-21T09:02:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 36696.7,
+    "elevation_gain": 149.0,
+    "id": "17816623935",
+    "moving_time": 12783.0,
+    "name": "Do\u011fu 40",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T09:55:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 3227.1,
+    "elevation_gain": 58.0,
+    "id": "17816630590",
+    "moving_time": 1198.0,
+    "name": "Son k\u0131s\u0131m",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T13:39:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
