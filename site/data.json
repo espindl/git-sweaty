@@ -31706,6 +31706,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17816630590",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 7,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17843611214",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -61475,11 +61484,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17843611214"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       }
     }
   },
-  "generated_at": "2026-03-24T15:31:31.382132+00:00",
+  "generated_at": "2026-03-25T15:32:27.164328+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
