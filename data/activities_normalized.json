@@ -45862,5 +45862,18 @@
     "start_date_local": "2026-03-27T07:22:00Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 45020.2,
+    "elevation_gain": 285.0,
+    "id": "17889068430",
+    "moving_time": 14947.0,
+    "name": "G\u00fcneydo\u011fu 45",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:34:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
