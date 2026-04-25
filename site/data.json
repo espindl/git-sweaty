@@ -31967,6 +31967,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18227745189",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18241444157",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18251392097",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -61770,6 +61788,24 @@
           "distance": 11077.9,
           "elevation_gain": 98.0,
           "moving_time": 3545.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18241444157"
+          ],
+          "count": 1,
+          "distance": 11007.3,
+          "elevation_gain": 138.0,
+          "moving_time": 3759.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18251392097"
+          ],
+          "count": 1,
+          "distance": 25188.6,
+          "elevation_gain": 154.0,
+          "moving_time": 8581.0
         }
       },
       "Workout": {
@@ -62001,7 +62037,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:36:15.586478+00:00",
+  "generated_at": "2026-04-25T15:20:09.888705+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
