@@ -46317,5 +46317,18 @@
     "start_date_local": "2026-05-03T11:09:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 110291.0,
+    "elevation_gain": 308.0,
+    "id": "18447727874",
+    "moving_time": 48702.0,
+    "name": "Sittard 24 - Retired early",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-09T15:00:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
