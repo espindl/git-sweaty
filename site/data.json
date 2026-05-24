@@ -32147,6 +32147,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18617576336",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18632587591",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -62103,6 +62112,15 @@
           "distance": 5002.1,
           "elevation_gain": 53.0,
           "moving_time": 1278.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18632587591"
+          ],
+          "count": 1,
+          "distance": 13652.3,
+          "elevation_gain": 163.0,
+          "moving_time": 4568.0
         }
       },
       "Workout": {
@@ -62361,7 +62379,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:29:35.175965+00:00",
+  "generated_at": "2026-05-24T15:30:00.949585+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
