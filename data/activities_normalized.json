@@ -46473,5 +46473,18 @@
     "start_date_local": "2026-05-28T07:58:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 5064.6,
+    "elevation_gain": 70.0,
+    "id": "18711523091",
+    "moving_time": 1303.0,
+    "name": "Shipley Country Parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T09:03:34Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
