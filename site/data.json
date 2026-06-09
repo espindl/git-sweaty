@@ -32255,6 +32255,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18821599084",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 7,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18847751783",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18849557685",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -62302,6 +62320,15 @@
           "distance": 15227.2,
           "elevation_gain": 109.0,
           "moving_time": 4987.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18849557685"
+          ],
+          "count": 1,
+          "distance": 10990.4,
+          "elevation_gain": 144.0,
+          "moving_time": 3601.0
         }
       },
       "Workout": {
@@ -62565,11 +62592,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3780.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18847751783"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3780.0
         }
       }
     }
   },
-  "generated_at": "2026-06-08T16:26:56.126397+00:00",
+  "generated_at": "2026-06-09T16:04:17.733119+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
