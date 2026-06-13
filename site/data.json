@@ -32300,6 +32300,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18888958150",
       "year": 2026
+    },
+    {
+      "date": "2026-06-13",
+      "hour": 9,
+      "name": "Victoria Embankment Parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18899564905",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -62374,6 +62383,15 @@
           "distance": 11627.7,
           "elevation_gain": 0.0,
           "moving_time": 3692.0
+        },
+        "2026-06-13": {
+          "activity_ids": [
+            "18899564905"
+          ],
+          "count": 1,
+          "distance": 4958.3,
+          "elevation_gain": 19.0,
+          "moving_time": 1210.0
         }
       },
       "Workout": {
@@ -62659,7 +62677,7 @@
       }
     }
   },
-  "generated_at": "2026-06-12T16:07:16.641121+00:00",
+  "generated_at": "2026-06-13T15:38:13.753106+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "strava",
