@@ -46733,5 +46733,44 @@
     "start_date_local": "2026-06-18T07:52:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18988775255",
+    "moving_time": 3600.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-19T07:22:00Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 4982.1,
+    "elevation_gain": 13.0,
+    "id": "18993202969",
+    "moving_time": 1186.0,
+    "name": "Alvaston parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T08:59:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 2709.7,
+    "elevation_gain": 8.0,
+    "id": "18993538270",
+    "moving_time": 957.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T09:23:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
