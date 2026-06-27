@@ -46800,6 +46800,19 @@
     "year": 2026
   },
   {
+    "date": "2026-06-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19086410311",
+    "moving_time": 3600.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-23T07:26:00Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
     "date": "2026-06-26",
     "distance": 10337.6,
     "elevation_gain": 0.0,
@@ -46809,6 +46822,19 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-26T07:58:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 5014.5,
+    "elevation_gain": 12.0,
+    "id": "19082618351",
+    "moving_time": 1198.0,
+    "name": "Holme Pierrepont Parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-27T09:01:45Z",
     "type": "Run",
     "year": 2026
   }
