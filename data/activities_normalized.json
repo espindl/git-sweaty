@@ -48674,5 +48674,18 @@
     "start_date_local": "2026-08-25T11:54:50",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 11761.4501953125,
+    "elevation_gain": 23.07999999821186,
+    "id": "24122692854",
+    "moving_time": 3612.6420135498047,
+    "name": "Derby - 5x1000m@3:50",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-26T12:12:51",
+    "type": "Run",
+    "year": 2026
   }
 ]
