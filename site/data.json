@@ -33552,6 +33552,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24588163861",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 12,
+      "name": "Derby Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24613340039",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -65900,6 +65909,15 @@
           "distance": 15011.580078125,
           "elevation_gain": 110.62999999523163,
           "moving_time": 4911.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "24613340039"
+          ],
+          "count": 1,
+          "distance": 11008.3701171875,
+          "elevation_gain": 132.52999997138977,
+          "moving_time": 3716.0
         }
       },
       "TrailRun": {
@@ -65915,7 +65933,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T18:33:34.673855+00:00",
+  "generated_at": "2026-10-05T21:53:38.219135+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "garmin",
