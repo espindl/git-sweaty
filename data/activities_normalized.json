@@ -49051,5 +49051,18 @@
     "start_date_local": "2026-10-15T12:02:51",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 5015.93017578125,
+    "elevation_gain": 26.310000002384186,
+    "id": "24753131664",
+    "moving_time": 1190.0,
+    "name": "Nottingham Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-17T09:00:13",
+    "type": "Run",
+    "year": 2026
   }
 ]
