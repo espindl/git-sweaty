@@ -49168,5 +49168,18 @@
     "start_date_local": "2026-10-29T12:15:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 4997.06982421875,
+    "elevation_gain": 14.389999985694885,
+    "id": "24913638920",
+    "moving_time": 1164.0,
+    "name": "Derby Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-31T09:01:47",
+    "type": "Run",
+    "year": 2026
   }
 ]
