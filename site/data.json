@@ -33741,6 +33741,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24963543344",
       "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 13,
+      "name": "\u00c7ankaya Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/25008889316",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -66278,6 +66287,15 @@
           "distance": 9994.1396484375,
           "elevation_gain": 30.730000019073486,
           "moving_time": 2780.4299850463867
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "25008889316"
+          ],
+          "count": 1,
+          "distance": 24012.330078125,
+          "elevation_gain": 136.15000000596046,
+          "moving_time": 7321.0
         }
       },
       "TrailRun": {
@@ -66293,7 +66311,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T19:16:52.650994+00:00",
+  "generated_at": "2026-11-08T19:25:34.349856+00:00",
   "other_bucket": "OtherSports",
   "repo": "espindl/git-sweaty",
   "source": "garmin",

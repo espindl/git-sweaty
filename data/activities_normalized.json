@@ -49220,5 +49220,18 @@
     "start_date_local": "2026-11-04T12:30:32",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 24012.330078125,
+    "elevation_gain": 136.15000000596046,
+    "id": "25008889316",
+    "moving_time": 7321.0,
+    "name": "\u00c7ankaya Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-08T13:49:34",
+    "type": "Run",
+    "year": 2026
   }
 ]
