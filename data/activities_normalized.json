@@ -49233,5 +49233,31 @@
     "start_date_local": "2026-11-08T13:49:34",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 2371.530029296875,
+    "elevation_gain": 12.109999999403954,
+    "id": "25039662369",
+    "moving_time": 731.3699951171875,
+    "name": "\u00c7ankaya Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-11T10:29:24",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 8085.75,
+    "elevation_gain": 37.52999997138977,
+    "id": "25039837321",
+    "moving_time": 2312.08602142334,
+    "name": "\u00c7ankaya Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-11T09:50:12",
+    "type": "Run",
+    "year": 2026
   }
 ]
