@@ -49259,5 +49259,18 @@
     "start_date_local": "2026-11-11T09:50:12",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 24016.859375,
+    "elevation_gain": 21.819999992847443,
+    "id": "25071830397",
+    "moving_time": 7914.0,
+    "name": "Mezitli Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-14T07:12:56",
+    "type": "Run",
+    "year": 2026
   }
 ]
